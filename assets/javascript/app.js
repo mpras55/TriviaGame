@@ -108,7 +108,7 @@ var questions = [
 	,
 	{
 		// Question #8
-		q: "From which country did the United States purchase the Alaskan territoty in 1867?"
+		q: "From which country did the United States purchase the Alaskan territory in 1867?"
 		, a: "Spain"
 		, b: "Russia"
 		, c: "England"

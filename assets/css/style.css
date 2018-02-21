@@ -78,7 +78,7 @@ marquee{
 
 .time-text{
 	text-align: right;
-	width: 45%;
+	width: 50%;
 	padding: 10px;
 	float: left;
 	clear: left;
@@ -86,7 +86,7 @@ marquee{
 
 #time-remaining{
 	text-align: left;
-	width: 45%;
+	width: 46%;
 	padding: 10px;
 	float: left;
 	clear: right;
